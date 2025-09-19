@@ -6,6 +6,7 @@
 
 - [Quickstart](getting-started/quickstart.md)
 - [Publish your docs](getting-started/publish-your-docs.md)
+- [How It Works?](how-it-works.md)
 - [Security](security.md)
 - [Collecting Trading Fees](collecting-trading-fees.md)
 
