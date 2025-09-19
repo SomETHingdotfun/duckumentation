@@ -11,7 +11,7 @@ SOMETHING is a token launchpad focused on the Linea ecosystem.
 * **Identity-building** through user profiles and follower mechanics
 * **Social retention** via notification systems and activity-based visibility
 
-All of this is layered atop a powerful token infrastructure with fair launches, locked liquidity, and creator-owned revenue. This documentation outlines WAGMIE’s infrastructure, social layer, and token launch mechanics.
+All of this is layered atop a powerful token infrastructure with fair launches, locked liquidity, and creator-owned revenue. This documentation outlines SOMETHING’s infrastructure, social layer, and token launch mechanics.
 
 This documentation outlines how SOMETHING works, its key features, economic model, and the infrastructure behind the platform.
 
