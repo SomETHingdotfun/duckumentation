@@ -4,7 +4,7 @@ description: Instant. Fair. Trustless.
 
 # How It Works?
 
-Creating a token on SOMETHING is a streamlined process that balances simplicity with powerful customization options. Users begin by providing basic token details such as name and symbol, then select their preferred funding token (like WETH or USDC).&#x20;
+Creating a token on SomeETHing is a streamlined process that balances simplicity with powerful customization options. Users begin by providing basic token details such as name and symbol, then select their preferred funding token (like WETH or USDC).&#x20;
 
 The platform then guides creators through the configuration of launch parameters, ensuring they understand the implications of each setting. After paying any applicable creation fees, the token is created and immediately available for trading, with initial liquidity already in place.
 

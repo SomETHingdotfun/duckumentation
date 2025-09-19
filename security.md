@@ -4,15 +4,15 @@ description: This page documents the various audits taken to secure the protocol
 
 # Security
 
-SOMETHING is built with security as a fundamental principle, implementing multiple layers of protection to ensure the safety of tokens and users. The platform's security architecture is designed to be resilient against various attack vectors while maintaining full functionality.
+SomeETHing is built with security as a fundamental principle, implementing multiple layers of protection to ensure the safety of tokens and users. The platform's security architecture is designed to be resilient against various attack vectors while maintaining full functionality.
 
-SOMETHING is open source and the source code for the underlying contracts can be found in our GitHub.
+SomeETHing is open source and the source code for the underlying contracts can be found in our GitHub.
 
 {% @github-files/github-code-block url="https://github.com/SomETHingdotfun/contracts/" %}
 
 ## GoPlus Locker Integration
 
-Every token launched through SOMETHING is automatically locked using GoPlus Locker, providing several security benefits:
+Every token launched through SomeETHing is automatically locked using GoPlus Locker, providing several security benefits:
 
 - **Automatic Locking**: Tokens are locked immediately upon launch
 - **Fee Structure**: 2.8% of trading fees support the locker service
@@ -23,7 +23,7 @@ Learn more about GoPlus and liquidity locking by visiting the [GoPlus Docs](http
 
 ## Token Implementation
 
-All SOMETHING tokens follow a secure, minimal implementation approach:
+All SomeETHing tokens follow a secure, minimal implementation approach:
 
 - **Simple Contract Design**: Reduced attack surface through minimal code
 - **Ownership Renouncement**: Token ownership is automatically renounced after launch
