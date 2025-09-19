@@ -10,7 +10,7 @@
 
 ## Links
 
-* [API Documentation](https://something.readme.io/)
+* [API Documentation](https://somethingfun.readme.io/)
 * [Feedback](https://feedback.something.fun/)
 
 ## Legal
