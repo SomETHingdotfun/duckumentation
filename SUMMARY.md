@@ -11,7 +11,7 @@
 ## Links
 
 * [API Documentation](https://somethingfun.readme.io/)
-* [Feedback](https://feedback.something.fun/)
+* [Feedback](https://somethingdotfun.canny.io/)
 
 ## Legal
 
