@@ -22,7 +22,7 @@ On Linea, Something charges a flat 1% trading fee on all trades. This fee is aut
 
 * **Referral**: 0.15%
 * **Treasury**: 0.15%
-* **Consensys**: 0.35%
 * **Token Creator**: 0.35%
+* **Redacted**: 0.35%
 
 This structure ensures that both the protocol and token creators benefit fairly from trading activity, while also supporting referrals and Consensys as an infrastructure provider.

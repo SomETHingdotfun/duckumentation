@@ -6,7 +6,8 @@
 
 * [How It Works?](how-it-works.md)
 * [Security](security.md)
-* [Collecting Trading Fees](collecting-trading-fees.md)
+* [Liquidity Pool Fees](getting-started/collecting-trading-fees.md)
+* [Collecting Trading Fees](getting-started/collecting-trading-fees-1.md)
 
 ## Links
 
